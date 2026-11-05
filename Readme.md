@@ -1,1 +1,2 @@
-Sde and part time Samurai 
+- Sde and part time Samurai 
+- Rust + Async Python + Distributed System + Linux + Coffee ☕
